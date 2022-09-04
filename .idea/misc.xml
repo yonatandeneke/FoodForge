@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/18322/Dropbox/FoodForge/app/src/main/res/layout/activity_main.xml" value="0.21557971014492755" />
+        <entry key="..\:/Users/18322/Dropbox/FoodForge/app/src/main/res/layout/activity_recipe.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/yonat/AndroidStudioProjects/FoodForge/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/yonat/Dropbox/FoodForge/app/src/main/res/layout/activity_main.xml" value="0.3482789855072464" />
+        <entry key="..\:/Users/yonat/Dropbox/FoodForge/app/src/main/res/layout/activity_pantry.xml" value="0.33" />
+        <entry key="..\:/Users/yonat/Dropbox/FoodForge/app/src/main/res/layout/activity_recipe.xml" value="0.3482789855072464" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

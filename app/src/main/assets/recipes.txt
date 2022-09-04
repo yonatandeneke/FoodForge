@@ -1,0 +1,40 @@
+name: Lasanga
+ingredients: tomato sauce, pasta
+steps: 1.) Put tomato sauce on pasta 2.) cook
+end
+
+name: Chicken Alfredo
+ingredients: pasta, alfredo sauce
+steps: 1.) Put the sauce on the noodles *2.) wallah
+end
+
+name: Fried Egg
+ingredients: egg, oil
+steps: 1.) Put egg on the stove *2.) wallah
+end
+
+name: Oatmeal
+ingredients: oats, milk
+steps: 1.) Put the oats in a bowl *2.) Put milk in the bowl *3.) microwave for a minute *4.) wallah
+end
+
+name: Scrambled Eggs
+ingredients: egg, oil
+steps: 1.) Scramble them eggs baby
+end
+
+name: Boiled Egg
+ingredients: egg
+steps: 1.) Put the egg in water
+end
+
+name: Sunny Side Up Eggs
+ingredients: egg
+steps: 1.) Crack an egg and fry *2.) WALLAH!
+end
+
+name: Sandwich
+ingredients: Turkey, Bread, Cheese
+steps: 1.) Bread first, then turkey, then cheese, then one more bread. *2.)now i'm hungry...
+end
+
